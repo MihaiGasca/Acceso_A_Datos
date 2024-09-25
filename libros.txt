@@ -1,0 +1,4 @@
+#Lista de Libros
+#Mon Sep 23 20:40:45 CEST 2024
+Libro2=1984;George Orwell
+Libro1=Cien anos de soledad;Gabriel Garcia Marquez

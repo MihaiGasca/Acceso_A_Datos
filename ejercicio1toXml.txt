@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Frutas</comment>
+<entry key="Fruta1">Manzana</entry>
+<entry key="Fruta2">Plátano</entry>
+</properties>

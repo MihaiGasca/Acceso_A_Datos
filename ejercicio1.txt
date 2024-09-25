@@ -1,0 +1,4 @@
+#Lista de Frutas
+#Tue Sep 24 21:03:50 CEST 2024
+Fruta1=Manzana
+Fruta2=Pl\u00E1tano
